@@ -766,6 +766,18 @@ margin on the iframe, cause it breaks stuff. */
 .author-info-social .author-info-social-jj {
     background-color: #007fff;
 }
+.author-info-social .author-info-social-zh {
+    background-color: #687f01;
+}
+.author-info-social .author-info-social-gitee {
+    background-color: #ff00d4;
+}
+.author-info-social .author-info-social-docker {
+    background-color: #4c00ff;
+}
+.author-info-social .author-info-social-coding {
+    background-color: #ff9900;
+}
 .author-info-social .author-info-social-feature {
     background-color: #567E95;
 }
@@ -1296,8 +1308,8 @@ margin on the iframe, cause it breaks stuff. */
 
 .back-top {
     position: fixed;
-    right: 28px;
-    bottom: 28px;
+    right: 72px;
+    bottom: 128px;
     z-index: 999;
     width: 56px;
     display: none;
